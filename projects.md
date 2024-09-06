@@ -20,7 +20,7 @@ Ionic was used to provide the scaffolding for a consistently native cross platfo
 
 ## OpenGIX <Badge type="info" text="development" />
 
-OpenGIX is a system for working with variable and layered geospatial information. Geogspacial Information Transformation (GIX) organizes `GeoJSON` and `TopoJSON` data into a single layered document for cartographers, statisticians and developers to visually or manually interact with and transform complex data objects to build shapes and maps filled with data.
+[OpenGIX](https://opengix.org) is a system for working with variable and layered geospatial information. Geogspacial Information Transformation (GIX) organizes `GeoJSON` and `TopoJSON` data into a single layered document for cartographers, statisticians and developers to visually or manually interact with and transform complex data objects to build shapes and maps filled with data.
 
 The [OpenGIX Schema](https://github.com/OpenGIX/schema) was produced to define the structure for these complex layered files (`.gix`, `.gix.yaml`, `.gix.json`).
 
