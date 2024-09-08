@@ -10,7 +10,7 @@ The Open Working Group supports, sponsors and organizes thought leadership and r
 
 ## Open Authenticator <Badge type="info" text="development" />
 
-[Open Authenticator](https://open-authenticator.github.io) is an open source no-frills, purpose built, multi-factor authentication application.
+[Open Authenticator](https://openworkinggroup.org/x/open-authenticator) is an open source no-frills, purpose built, multi-factor authentication application.
 
 Ionic was used to provide the scaffolding for a consistently native cross platform user experience while Angular was selected as the primary framework to implement the HOTP/TOTP protocols as a web-application creating a common code base that can be transpiled and deployed natively to any device or operating system.
 
