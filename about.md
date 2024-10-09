@@ -8,4 +8,4 @@ Truth, trust and transparency are the guiding principles of our organization. Th
 
 We endevour to explore and support communities and projects that share these ideas.
 
-Get involved! Email [openworkinggroup@@googlegroups.com](mailto:openworkinggroup@@googlegroups.com)
+Get involved! Email openworkinggroup@googlegroups.com
