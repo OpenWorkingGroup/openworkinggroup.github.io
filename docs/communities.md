@@ -1,11 +1,18 @@
 ---
-next: false
-prev: false
+sidebar: false
+prev:
+  text: Projects
+  link: /projects
+next:
+  text: About
+  link: /About
 ---
 
 # Communities
 
 Communities get things done. This is why we aspire to build communities around all of the work that we do—and there's only one requirement to join: ==works well with others==.
+
+## Open Working Group
 
 ## Open Wine Intiative
 

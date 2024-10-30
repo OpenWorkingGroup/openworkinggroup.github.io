@@ -1,7 +1,12 @@
 ---
 title: Active Projects
-prev: false
-next: false
+sidebar: false
+prev:
+  text: Home
+  link: /
+next:
+  text: Communities
+  link: /communities
 ---
 
 # Active Projects

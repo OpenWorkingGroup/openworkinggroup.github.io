@@ -1,5 +1,12 @@
 ---
 title: About
+sidebar: false
+next:
+  text: Home
+  link: /
+prev:
+  text: Communities
+  link: /communities
 ---
 
 # About the Open Working Group
