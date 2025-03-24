@@ -4,18 +4,14 @@ layout: home
 
 hero:
   name: "open://communities"
-  text: "open://ideas open://work"
-  tagline: "When the protocol is <strong>open</strong> and <strong>collaboration</strong> is the standard, the results are inevitably <strong>positive</strong>"
+  text: "open://ideas"
   actions:
     - theme: brand
-      text: Projects ->
+      text: Explore ->
       link: /projects
     - theme: alt
-      text: Communities
+      text: Contribute
       link: /communities
-    - theme: alt
-      text: Explore open
-      link: /about
 
 features:
   - title: Projects
