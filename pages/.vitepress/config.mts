@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "open://",
+  title: "open://_",
   description: "OpenWorkingGroup.org community website.",
   cleanUrls: true,
   head: [
